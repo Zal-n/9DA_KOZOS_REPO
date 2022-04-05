@@ -5,3 +5,10 @@ body {
   background-color: azure;
   color: white;
 }
+table {width: 500px;
+height: 550px}
+
+border {1px solid green;border-style:dotted;  }
+th {bgcolor:green}
+td {bgcolor:blue}
+
