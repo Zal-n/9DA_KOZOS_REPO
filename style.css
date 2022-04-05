@@ -11,8 +11,11 @@ height: 550px;border: auto auto}
 border {1px solid green;border-style:dotted;  }
 th {bgcolor:green}
 td {bgcolor:blue}
+
 img {
   margin: auto;
+  width: 250px;
+  height: 250px;
 }
 a:link {
   text-decoration: none;
