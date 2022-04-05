@@ -11,4 +11,16 @@ height: 550px;border: auto auto}
 border {1px solid green;border-style:dotted;  }
 th {bgcolor:green}
 td {bgcolor:blue}
-
+img {
+  margin: auto;
+}
+a:link {
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+}
+p {
+  text-align: justify;
+  text-indent: 20px;
+}
