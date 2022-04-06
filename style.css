@@ -1,20 +1,17 @@
 body {
   font-family: Arial;
-  font-size: 14px;
+  font-size: 20px;
   text-align: justify;
-  background-color: azure;
+  background-color: rgba(0, 236, 236, 0.466);
   color: white;
+  background-image: url(https://paw.hu/uploads/pictures/0/688/cuki_kutya_juli_paw_5.jpg);
 }
 table {width: 500px;
-height: 550px;border: auto auto}
-
-border {1px solid green;border-style:dotted;  }
-th {bgcolor:green}
-td {bgcolor:blue}
+height: 550px;margin: auto auto;border: 10px solid blue;border-radius: 20px;}
 
 img {
   margin: auto;
-  width: 250px;
+  width: 750px;
   height: 250px;
 }
 a:link {
@@ -26,4 +23,13 @@ a:hover {
 p {
   text-align: justify;
   text-indent: 20px;
+}
+td {
+  background-color: lightgreen;
+}
+caption {
+  font-size: 30px;
+  font-family: cursive;
+  background-color: red;
+  border-radius: 20px ;
 }
